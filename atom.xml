@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>maybe同学</title>
   
+  <subtitle>maybe</subtitle>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="/%20http://zhaokeqiang.cn/atom.xml" rel="self"/>
-  
-  <link href="http://yoursite.com/"/>
+  <link href="http://zhaokeqiang.cn/"/>
   <updated>2018-01-16T12:46:20.152Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zhaokeqiang.cn/</id>
   
   <author>
     <name>Zhao Keqiang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>second</title>
-    <link href="http://yoursite.com/2018/01/16/second/"/>
-    <id>http://yoursite.com/2018/01/16/second/</id>
+    <link href="http://zhaokeqiang.cn/2018/01/16/second/"/>
+    <id>http://zhaokeqiang.cn/2018/01/16/second/</id>
     <published>2018-01-16T12:45:19.000Z</published>
     <updated>2018-01-16T12:46:20.152Z</updated>
     
@@ -28,14 +28,14 @@
     </summary>
     
     
-      <category term="测试篇" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E7%AF%87/"/>
+      <category term="测试篇" scheme="http://zhaokeqiang.cn/tags/%E6%B5%8B%E8%AF%95%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/01/16/myhome/"/>
-    <id>http://yoursite.com/2018/01/16/myhome/</id>
+    <link href="http://zhaokeqiang.cn/2018/01/16/myhome/"/>
+    <id>http://zhaokeqiang.cn/2018/01/16/myhome/</id>
     <published>2018-01-16T12:41:07.674Z</published>
     <updated>2018-01-16T12:43:02.698Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/16/hello-world/"/>
-    <id>http://yoursite.com/2018/01/16/hello-world/</id>
+    <link href="http://zhaokeqiang.cn/2018/01/16/hello-world/"/>
+    <id>http://zhaokeqiang.cn/2018/01/16/hello-world/</id>
     <published>2018-01-16T10:47:07.118Z</published>
     <updated>2018-01-16T10:47:07.119Z</updated>
     
