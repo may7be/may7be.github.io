@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>maybe同学</title>
   
-  <subtitle>maybe</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhaokeqiang.cn/"/>
-  <updated>2018-01-16T12:46:20.152Z</updated>
+  <updated>2018-01-17T05:25:30.339Z</updated>
   <id>http://zhaokeqiang.cn/</id>
   
   <author>
@@ -17,44 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>second</title>
-    <link href="http://zhaokeqiang.cn/2018/01/16/second/"/>
-    <id>http://zhaokeqiang.cn/2018/01/16/second/</id>
-    <published>2018-01-16T12:45:19.000Z</published>
-    <updated>2018-01-16T12:46:20.152Z</updated>
+    <title>2018.first</title>
+    <link href="http://zhaokeqiang.cn/2018/01/17/2018-first/"/>
+    <id>http://zhaokeqiang.cn/2018/01/17/2018-first/</id>
+    <published>2018-01-17T05:22:58.000Z</published>
+    <updated>2018-01-17T05:25:30.339Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="测试篇" scheme="http://zhaokeqiang.cn/tags/%E6%B5%8B%E8%AF%95%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://zhaokeqiang.cn/2018/01/16/myhome/"/>
-    <id>http://zhaokeqiang.cn/2018/01/16/myhome/</id>
-    <published>2018-01-16T12:41:07.674Z</published>
-    <updated>2018-01-16T12:43:02.698Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><ol><li>生活</li><li>工作</li><li>学习</li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li>该来的总会来。</li><li>心存希望，望眼未来。</li><li>坚持走，总有出路。</li><li>生活会一直艰难，而不仅仅是过去和现在。</li><li>你拥有的只有你自己。</li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;生活&lt;/li&gt;
-&lt;li&gt;工作&lt;/li&gt;
-&lt;li&gt;学习&lt;/li&gt;
+        &lt;ol&gt;
+&lt;li&gt;该来的总会来。&lt;/li&gt;
+&lt;li&gt;心存希望，望眼未来。&lt;/li&gt;
+&lt;li&gt;坚持走，总有出路。&lt;/li&gt;
+&lt;li&gt;生活会一直艰难，而不仅仅是过去和现在。&lt;/li&gt;
+&lt;li&gt;你拥有的只有你自己。&lt;/li&gt;
 &lt;/ol&gt;
 
       
     
     </summary>
     
+    
+      <category term="2018" scheme="http://zhaokeqiang.cn/tags/2018/"/>
     
   </entry>
   
