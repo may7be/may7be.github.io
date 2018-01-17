@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>赵克强同学</title>
+  <title>maybe同学</title>
   
-  <subtitle>maybe同学</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/%20http://zhaokeqiang.cn/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2018-01-16T12:46:20.152Z</updated>
