@@ -352,10 +352,10 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
     var OriginTitile = document.title, titleTime;
     document.addEventListener('visibilitychange', function() {
         if (document.hidden) {
-            document.title = '好像出问题了！';
+            document.title = '您快回来！';
             clearTimeout(titleTime);
         } else {
-            document.title = '(つェ⊂)咦!又好了!';
+            document.title = '咦!可算回来了!';
             titleTime = setTimeout(function() {
                 document.title = OriginTitile;
             },2000);
