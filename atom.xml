@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>maybe同学的博客</title>
+  <title>Maybe student</title>
   
-  <subtitle>一入编程深如海，从此妹子是路人。</subtitle>
+  <subtitle>Into a programming as deep as the sea, since the sister is a passerby.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhaokeqiang.cn/"/>
